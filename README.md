@@ -1,19 +1,52 @@
-🌌 Interstellar Interface
+# 🌌 Interstellar Interface
 
-Interstellar Interface is an interactive web-based exploration platform developed during a NASA Hackathon. The application enables users to zoom seamlessly through layered, high-resolution space imagery, simulating an immersive deep-space navigation experience directly within the browser.
+Interstellar Interface is an interactive web-based space exploration platform developed during a NASA Hackathon. The application allows users to seamlessly zoom through layered, high-resolution space imagery, creating an immersive deep-space navigation experience directly in the browser.
 
-The goal of the project was to create a visually engaging and intuitive interface that allows users to explore astronomical imagery in a way that feels dynamic and exploratory rather than static. By implementing smooth zoom transitions and scalable image rendering, the platform gives users the sensation of traveling deeper into space with each interaction.
+---
 
-The project focused on:
+## 📌 Overview
 
-Interactive UI/UX design to create a visually compelling and user-friendly exploration experience
+The aim of this project was to design a visually engaging and intuitive interface for exploring astronomical imagery in a dynamic and interactive way, rather than a static viewing experience. Users can progressively zoom deeper into space, simulating the feeling of travelling through cosmic layers.
 
-Dynamic image scaling and smooth zoom transitions to simulate depth and spatial movement
+---
 
-Performance optimisation to ensure fluid interaction with high-resolution imagery
+## ✨ Key Features
 
-Responsive layout design for cross-device compatibility across desktop, tablet, and mobile
+- Smooth zoom transitions across high-resolution space imagery  
+- Layered visual structure to simulate depth and exploration  
+- Interactive and responsive user interface  
+- Optimised performance for large image rendering  
+- Cross-device compatibility (desktop, tablet, mobile)  
 
-Collaborative development in a fast-paced hackathon environment, requiring rapid prototyping, effective teamwork, and efficient problem-solving
+---
 
-Beyond its visual appeal, the project demonstrates key front-end development skills including interactive event handling, layout structuring, and performance-conscious design. Built under tight time constraints, Interstellar Interface reflects both technical capability and the ability to work collaboratively under pressure.
+## 🎯 Focus Areas
+
+- **UI/UX Design** – Creating an engaging and intuitive exploration experience  
+- **Interactive Visualisation** – Dynamic scaling and zoom-based navigation  
+- **Performance Optimisation** – Ensuring smooth interaction with large assets  
+- **Responsive Design** – Adapting layout across multiple screen sizes  
+- **Rapid Development** – Built in a fast-paced hackathon environment  
+
+---
+
+## 🧠 Technical Highlights
+
+This project demonstrates skills in:
+- Front-end interaction handling
+- Event-driven UI development
+- Layout structuring for scalable visual systems
+- Performance-aware rendering of high-resolution imagery
+- Collaborative development under time constraints  
+
+---
+
+## 🚀 Outcome
+
+Developed as part of a NASA Hackathon, Interstellar Interface showcases the ability to combine creative design with technical implementation to build an immersive and interactive web experience.
+
+---
+
+## 👤 Author
+
+Developed by the Interstellar Interface team during a NASA Hackathon.
